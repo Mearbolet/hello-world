@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+New programmer in the field, learning Python and C++.
